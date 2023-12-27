@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://crazyrich88-jitu.de-rse.org/sitemap.xml
